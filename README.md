@@ -11,6 +11,16 @@ An MCP (Model Context Protocol) server for accessing the Slovak Business Registe
 - ⚡ Async operations for optimal performance
 - 🛡️ Comprehensive error handling and validation
 
+## Hosted MCP Server by FlowHunt
+
+We can host this MCP server for RegisterUZ users at [FlowHunt](https://flowhunt.io). This means:
+
+- ✅ No installation or setup required on your side
+- 🔄 Use the RegisterUZ MCP server in FlowHunt flows and automations
+- 🔌 Compatible with ANY AI application that supports MCP servers (Claude Desktop, Continue.dev, and more)
+- 🔒 Secure, managed infrastructure with automatic updates
+- 📧 Contact us at [FlowHunt](https://flowhunt.io) to get started
+
 ## Installation
 
 ### From Source
