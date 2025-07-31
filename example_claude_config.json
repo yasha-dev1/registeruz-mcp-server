@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "registeruz": {
+      "command": "python",
+      "args": ["-m", "mcp_server_registeruz"],
+      "env": {
+        "REGISTERUZ_BASE_URL": "https://www.registeruz.sk/cruz-public/api",
+        "REGISTERUZ_TIMEOUT": "60",
+        "REGISTERUZ_MAX_RECORDS": "1000",
+        "LOG_LEVEL": "INFO"
+      }
+    }
+  }
+}

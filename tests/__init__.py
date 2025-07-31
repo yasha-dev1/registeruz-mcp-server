@@ -1,0 +1,1 @@
+"""Tests for RegisterUZ MCP Server."""
